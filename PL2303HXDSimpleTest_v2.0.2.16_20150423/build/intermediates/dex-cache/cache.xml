@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\charles-yeh\StudioProjects\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\libs\pl2303driver.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3ba27649469c1d71e1a54c0fd66a0d94856df555">
+        <dex dex="C:\Users\charles-yeh\StudioProjects\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\build\intermediates\pre-dexed\debug\pl2303driver_59b8ac47d8bee7ae25a749dab62973e8aca6a7cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\charles-yeh\StudioProjects\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5800060a4c35d30838500c55dd2220d02c0db9c1">
+        <dex dex="C:\Users\charles-yeh\StudioProjects\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\build\intermediates\pre-dexed\debug\instant-run_45d833018f17a8079533ad3a545fdef24ed22a5b.jar" />
+    </item>
+    <item
+        jar="C:\android-SDK\SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\charles-yeh\StudioProjects\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_c96499d90c4e1ecac360ab039f57bfc282ae7928.jar" />
+    </item>
+    <item
+        jar="C:\Users\charles-yeh\StudioProjects\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2ee29174aa5d9e66623f458634b57f02de513e3d">
+        <dex dex="C:\Users\charles-yeh\StudioProjects\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9e329576e0bedd44201cbd916814d61f1fdda70c.jar" />
+    </item>
+
+</items>

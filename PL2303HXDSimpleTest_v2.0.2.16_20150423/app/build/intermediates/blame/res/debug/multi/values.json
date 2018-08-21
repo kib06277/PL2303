@@ -1,0 +1,334 @@
+[
+    {
+        "outputFile": "C:\\Users\\charles-yeh\\StudioProjects\\PL2303HXDSimpleTest_v2.0.2.16_20150423\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 190
+                },
+                "from": {
+                    "file": "C:\\Users\\charles-yeh\\StudioProjects\\PL2303HXDSimpleTest_v2.0.2.16_20150423\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 6,
+                        "endColumn": 19,
+                        "endOffset": 199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 195,
+                    "endColumn": 49,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "C:\\Users\\charles-yeh\\StudioProjects\\PL2303HXDSimpleTest_v2.0.2.16_20150423\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 792,
+                        "endColumn": 49,
+                        "endOffset": 837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 245,
+                    "endColumn": 55,
+                    "endOffset": 296
+                },
+                "from": {
+                    "file": "C:\\Users\\charles-yeh\\StudioProjects\\PL2303HXDSimpleTest_v2.0.2.16_20150423\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 610,
+                        "endColumn": 55,
+                        "endOffset": 661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 301,
+                    "endColumn": 54,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "C:\\Users\\charles-yeh\\StudioProjects\\PL2303HXDSimpleTest_v2.0.2.16_20150423\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 330,
+                        "endColumn": 54,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 356,
+                    "endColumn": 55,
+                    "endOffset": 407
+                },
+                "from": {
+                    "file": "C:\\Users\\charles-yeh\\StudioProjects\\PL2303HXDSimpleTest_v2.0.2.16_20150423\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 441,
+                        "endColumn": 55,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 412,
+                    "endColumn": 51,
+                    "endOffset": 459
+                },
+                "from": {
+                    "file": "C:\\Users\\charles-yeh\\StudioProjects\\PL2303HXDSimpleTest_v2.0.2.16_20150423\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 739,
+                        "endColumn": 51,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 464,
+                    "endColumn": 70,
+                    "endOffset": 530
+                },
+                "from": {
+                    "file": "C:\\Users\\charles-yeh\\StudioProjects\\PL2303HXDSimpleTest_v2.0.2.16_20150423\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 667,
+                        "endColumn": 70,
+                        "endOffset": 733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 535,
+                    "endColumn": 59,
+                    "endOffset": 590
+                },
+                "from": {
+                    "file": "C:\\Users\\charles-yeh\\StudioProjects\\PL2303HXDSimpleTest_v2.0.2.16_20150423\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 59,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 595,
+                    "endColumn": 55,
+                    "endOffset": 646
+                },
+                "from": {
+                    "file": "C:\\Users\\charles-yeh\\StudioProjects\\PL2303HXDSimpleTest_v2.0.2.16_20150423\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 55,
+                        "endOffset": 549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 651,
+                    "endColumn": 53,
+                    "endOffset": 700
+                },
+                "from": {
+                    "file": "C:\\Users\\charles-yeh\\StudioProjects\\PL2303HXDSimpleTest_v2.0.2.16_20150423\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 555,
+                        "endColumn": 53,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 705,
+                    "endColumn": 53,
+                    "endOffset": 754
+                },
+                "from": {
+                    "file": "C:\\Users\\charles-yeh\\StudioProjects\\PL2303HXDSimpleTest_v2.0.2.16_20150423\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 53,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 759,
+                    "endColumn": 56,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "C:\\Users\\charles-yeh\\StudioProjects\\PL2303HXDSimpleTest_v2.0.2.16_20150423\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 56,
+                        "endOffset": 71
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 52,
+                    "endOffset": 864
+                },
+                "from": {
+                    "file": "C:\\Users\\charles-yeh\\StudioProjects\\PL2303HXDSimpleTest_v2.0.2.16_20150423\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 77,
+                        "endColumn": 52,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 869,
+                    "endColumn": 50,
+                    "endOffset": 915
+                },
+                "from": {
+                    "file": "C:\\Users\\charles-yeh\\StudioProjects\\PL2303HXDSimpleTest_v2.0.2.16_20150423\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 131,
+                        "endColumn": 50,
+                        "endOffset": 177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 920,
+                    "endColumn": 84,
+                    "endOffset": 1000
+                },
+                "from": {
+                    "file": "C:\\Users\\charles-yeh\\StudioProjects\\PL2303HXDSimpleTest_v2.0.2.16_20150423\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endColumn": 84,
+                        "endOffset": 263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1005,
+                    "endColumn": 57,
+                    "endOffset": 1058
+                },
+                "from": {
+                    "file": "C:\\Users\\charles-yeh\\StudioProjects\\PL2303HXDSimpleTest_v2.0.2.16_20150423\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 58,
+                        "endOffset": 73
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1063,
+                    "endLine": 28,
+                    "endColumn": 9,
+                    "endOffset": 1477
+                },
+                "from": {
+                    "file": "C:\\Users\\charles-yeh\\StudioProjects\\PL2303HXDSimpleTest_v2.0.2.16_20150423\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 76,
+                        "endLine": 9,
+                        "endColumn": 9,
+                        "endOffset": 496
+                    }
+                }
+            }
+        ]
+    }
+]

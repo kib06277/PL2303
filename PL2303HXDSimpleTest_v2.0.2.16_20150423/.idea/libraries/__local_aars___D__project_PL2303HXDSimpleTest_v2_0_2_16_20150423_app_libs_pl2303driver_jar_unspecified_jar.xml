@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="__local_aars__:D.\project\PL2303HXDSimpleTest_v2.0.2.16_20150423\app\libs\pl2303driver.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/pl2303driver.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

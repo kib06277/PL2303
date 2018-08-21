@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">PL2303HXD / PL2303EA 8 GPIO Test v1.0.0.3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="OpenPort">Open</string>
+    <string name="ClosePort">Close</string>
+    <string name="GPO">GP0-------></string>
+    <string name="GP1">GP1-------></string>
+    <string name="GP2">GP2-------></string>
+    <string name="GP3">GP3-------></string>
+    <string name="GP4">GP4_RI----></string>
+    <string name="GP5">GP5_DCD--></string>
+    <string name="GP6">GP6_DSR--></string>
+    <string name="GP7">GP7_CTS--></string>
+    <string name="Enable_GPIO">Out_Enable</string>
+    <string name="Set_Button">Set</string>
+    <string name="Get_Button">Get</string>
+    <string name="GPIO_Value_Range">0 or 1</string>
+
+</resources>
